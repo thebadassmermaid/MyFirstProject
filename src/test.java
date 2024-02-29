@@ -1,4 +1,4 @@
-/*How to use GİT/GitHUB
+/*how to use Git/GitHub
 
 1-You need to work with latest code, That's why we need to be in the main
 2-You need to "pull" the latest code from server to your laptop
@@ -10,6 +10,4 @@ After getting the latest code;
 -Then, we create a "Pull Request"
 -Someone needs to approve my pull request so I can merge my changes.
 -As soon as we merge our changes, it will be seen in the main branch
-
-
  */
