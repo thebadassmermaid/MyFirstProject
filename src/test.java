@@ -1,5 +1,10 @@
 /*how to use Git/GitHub
 
+Create a GitHub account
+Download Git to laptop
+Open ıntellJ
+Log in to GitHub
+
 1-You need to work with latest code, That's why we need to be in the main
 2-You need to "pull" the latest code from server to your laptop
 
